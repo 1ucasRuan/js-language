@@ -29,11 +29,10 @@ function classificarImc(imc) {
     }
 }
 
-function main() {
+(function main() {
     let peso = 60;
     let altura = 1.65;   
     let imc = calcularImc(peso, altura);
     console.log(imc);  
 
-}
-main();
+})();
