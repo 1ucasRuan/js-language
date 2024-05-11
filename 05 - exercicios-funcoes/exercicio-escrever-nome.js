@@ -12,4 +12,4 @@ function verificarIdade(idade){
 }
 
 let idade = 25;
-escreverNome('Lucas');
+escreverNome('Lucas Ruan da Silva de Carvalho');

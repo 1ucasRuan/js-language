@@ -1,4 +1,4 @@
-let peso = 60;
+let peso = 75;
 let altura = 1.69;
 
 let imc = peso / (altura * altura);

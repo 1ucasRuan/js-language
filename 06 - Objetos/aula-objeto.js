@@ -12,9 +12,9 @@ pessoa.nome = 'Joice';
 pessoa.idade = 22;
 
 pessoa.descrever();
-//console.log(lucas.nome);
-//console.log(lucas.idade);
-//console.log(lucas);
-//lucas.altura = 1.69;
-//delete lucas.nome;
-//console.log(lucas);
+console.log(lucas.nome);
+console.log(lucas.idade);
+console.log(lucas);
+lucas.altura = 1.69;
+delete lucas.nome;
+console.log(lucas);

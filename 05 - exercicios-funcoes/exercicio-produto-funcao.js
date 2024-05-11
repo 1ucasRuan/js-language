@@ -3,6 +3,7 @@ let metodoPagamento = 'Parcelado';
 let parcela = 1;
 let total = 0;
 
+//Verificar metodo pagamento
 if(metodoPagamento === 'Debito'){
     total = valoProduto - (valoProduto * 0.10);
     console.log('Valor a pagar será de: ' + total.toFixed(2));
