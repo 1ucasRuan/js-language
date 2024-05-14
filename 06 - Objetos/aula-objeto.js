@@ -14,12 +14,22 @@ class Pessoa {
     }
 }
 
-const lucas = new Pessoa('Lucas', 24);
+function compararPessoas(p1, p2){
+    if(p1.idade > p2.idade){
+        console.log()
+    }
+}
+
+
+
+
+
+//const lucas = new Pessoa('Lucas', 24);
 //lucas.nome = 'Lucas Ruan da Silva de Carvalho';
 //lucas.idade = 24;
 
-console.log(lucas);
-lucas.descrever();
+//console.log(lucas);
+//lucas.descrever();
 
 
 /*const pessoa = {
