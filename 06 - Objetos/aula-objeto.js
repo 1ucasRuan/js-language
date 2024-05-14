@@ -13,6 +13,7 @@ lucas.nome = 'Lucas Ruan da Silva de Carvalho';
 lucas.idade = 24;
 
 console.log(lucas);
+lucas.descrever();
 
 
 /*const pessoa = {
