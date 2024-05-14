@@ -7,14 +7,8 @@ const pessoa = {
     }
 };
 
-console.log(pessoa);
-pessoa.nome = 'Joice';
-pessoa.idade = 22;
+//console.log(pessoa);
 
 pessoa.descrever();
-console.log(lucas.nome);
-console.log(lucas.idade);
-console.log(lucas);
-lucas.altura = 1.69;
-delete lucas.nome;
-console.log(lucas);
+
+console.log(pessoa['nome'], pessoa['idade']);
