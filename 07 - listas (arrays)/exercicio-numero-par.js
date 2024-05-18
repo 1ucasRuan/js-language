@@ -8,13 +8,13 @@ function encontrarPar(numeros){
     }
 }
 
-const numeros = [];
+const numeros = [1, 2, 3 , 4, 5, 6, 7, 8, 9, 10];
 
-numeros.push(5);
-numeros.push(7);
-numeros.push(8);
-numeros.push(2);
-numeros.push(5);
+numeros.push(11);
 numeros.push(12);
+numeros.push(13);
+numeros.push(14);
+numeros.push(15);
+numeros.push(16);
 
 encontrarPar(numeros);
