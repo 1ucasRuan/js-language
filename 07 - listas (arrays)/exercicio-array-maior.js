@@ -10,6 +10,6 @@ function encontrarMaior(numeros){
     return maior;
 }
 
-const numeros = [1, 2, 3 , 4, 5, 6, 7, 8, 9, 10];//array com os elementos
+const numeros = [24, 2, 11 , 4, 5, 25, 7, 8, 9, 10];//array com os elementos
 
 console.log(encontrarMaior(numeros));
