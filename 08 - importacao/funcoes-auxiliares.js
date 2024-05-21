@@ -1,3 +1,4 @@
+//Encontrar maior valor
 /*const entradas = [5, 5, 50, 10, 98, 23];
 let i = 0;
 
@@ -13,10 +14,11 @@ function print(texto){
 
 module.exports = {gets, print}*/
 
+
+// Calcular media
 function gets(){
-    const valor = entradas[i];
-    i++;
-    return  valor;
+    const media = 7.0;    
+    return  media;
 }
 
 function print(texto){
